@@ -5,31 +5,37 @@ A modern, responsive web application for the Pomodoro time management technique,
 ## Features
 
 ✅ **Customizable Timer**
+
 - Default: 25 min work, 5 min short break, 15 min long break
 - Adjustable durations in settings
 
 ✅ **Session Management**
+
 - Automatic cycle: Work → Short Break → Work → Long Break
 - Session counter
 - Progress visualization
 
 ✅ **Notifications**
+
 - Browser notifications when sessions complete
 - Sound alerts (customizable)
 - Works even when tab is not focused
 
 ✅ **Statistics**
+
 - Track completed sessions
 - Daily progress overview
 - Weekly activity chart
 - History of last 14 days
 
 ✅ **Themes**
+
 - Light and dark mode
 - Smooth theme switching
 - Persistent preference
 
 ✅ **Responsive Design**
+
 - Mobile-friendly interface
 - Tablet and desktop support
 - Touch-optimized controls
@@ -45,10 +51,13 @@ A modern, responsive web application for the Pomodoro time management technique,
 ## Getting Started
 
 ### Prerequisites
-- Node.js 16+ 
+
+- Node.js 16+
 - npm or yarn
 
 ### Installation
+
+if don`t work please, terminal cmd or Set-ExecutionPolicy-Scope Process-ExecutionPolicy Bypass
 
 ```bash
 # Install dependencies
@@ -101,23 +110,27 @@ src/
 ## Features in Detail
 
 ### Timer Display
+
 - Large circular progress indicator
 - MM:SS format
 - Color-coded sessions (green=work, blue=break, orange=long break)
 
 ### Notifications
+
 - Browser notifications (with permission)
 - Web Audio API sound alerts
 - Toggleable in settings
 
 ### Data Persistence
+
 - Settings saved to Local Storage
 - Session history stored automatically
 - Theme preference remembered
 
 ### Responsive Breakpoints
+
 - Mobile: < 480px
-- Tablet: 480px - 768px  
+- Tablet: 480px - 768px
 - Desktop: > 768px
 
 ## Browser Compatibility
@@ -130,6 +143,7 @@ src/
 ## Team
 
 **Project Team** (M101 Document)
+
 - Team Lead: Denys Fedyna (CS-33)
 - Project Manager: Volodymyr Homu (CSAI-31)
 - Software Engineers:
