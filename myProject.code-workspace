@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "*.erd": "json",
+            "*.vuerd": "json",
+            "ostream": "cpp"
+        }
+    }
+}
