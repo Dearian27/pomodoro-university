@@ -1,7 +1,7 @@
 # 🍅 Pomodoro Timer
 
 A modern, responsive web application for the Pomodoro time management technique, built with React and Vite.
-
+Jira link: https://pomodoroweb.atlassian.net/jira/core/projects/PMDR/board?filter=&groupBy=status&atlOrigin=eyJpIjoiZWFhNDEyYjgwY2ZhNDRiNGIyZmU5ZGYzMDAxOTNiYTUiLCJwIjoiaiJ9
 ## Features
 
 ✅ **Customizable Timer**
