@@ -1,0 +1,10 @@
+import '@testing-library/jest-dom/vitest'
+
+beforeEach(() => {
+  localStorage.clear()
+})
+
+afterEach(() => {
+  vi.restoreAllMocks()
+  vi.useRealTimers()
+})
